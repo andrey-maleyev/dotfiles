@@ -45,3 +45,6 @@
 
 [branch "master"]
   mergeoptions = --no-edit
+[user]
+	email = andrey.maleyev@gmail.com
+	name = Andrey Maleev
